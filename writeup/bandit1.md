@@ -1,3 +1,3 @@
 
 vcl sao lam loi the
-![vl ao that](writeup/image-1.png)
+![vl ao that](image-1.png)
