@@ -5,5 +5,5 @@ Chạy file suconnect thì thấy mô tả như ảnh
 
 ![alt text](writeup/anh/25.png)
 
-(echo -n "0qXahG8ZjOVMN9Ghs7i0WsCfZyX0UbYO" | nc -l -p 1234 &
+(echo -n "0qXahG8ZjOVMN9Ghs7i0WsCfZyX0UbYO" | nc -l -p 1234 &\
 &: để tác vụ chạy background)
