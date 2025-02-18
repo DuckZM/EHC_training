@@ -1,4 +1,5 @@
-Kiểm tra thì thấy có file bandit20-do bôi đỏ
+Kiểm tra thì thấy có file bandit20-do bôi đỏ\
+Dùng file để xem có gì => file executable
 
 ![alt text](writeup/anh/24.png)
 
